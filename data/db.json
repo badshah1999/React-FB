@@ -1,0 +1,19 @@
+{
+  "credential": {
+    "username": "sample@gmail.com",
+    "password": "Sample@123"
+  },
+  "data": [
+    {
+      "id": 1,
+      "lastname": "Khan",
+      "firstname": "badshah",
+      "number": "8523959710",
+      "password": "Sample@123",
+      "month": "Feb",
+      "year": "2022",
+      "date": "3",
+      "gender": "Male"
+    }
+  ]
+}
